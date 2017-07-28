@@ -1,0 +1,37 @@
+* Estrutura
+	Redondo compacto
+	Redondo alongado
+	F1
+	
+	Desenho CAD
+	Materiais
+		Chassi (PCB, foam, madeirite, Plastico?)
+		Roda
+		Bateria
+
+* Controle
+	Primeira vista: Arduino,PIC,MSP;
+	Procurar outras possibilidades:
+		Velocidade de processamento
+		Temporização bem definida
+		Documentação disponível
+		Acessibilidade Custo-Benefício
+			Facilidade de compra
+			Preço
+		Personalização
+			Placa PCB
+			IDE
+* Movimentação
+	Circuitos ponte H (comprar ou fazer?)
+	Controle de PWM 
+	Dimensionamento dos motores (passo, DC ou servo?)
+		Peso
+		Torque
+		Potência/Consumo
+			Bateria
+* Sensoriamento
+	Retroalimentação (PID, PI, PD)
+	Tipos de sensores IR
+	
+		
+	
